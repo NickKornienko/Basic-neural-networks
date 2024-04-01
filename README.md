@@ -5,7 +5,7 @@ All parts of the assignment are in the labeled notebooks, trying to follow the p
 
 a) b) a) safisfied by numpy_neural_network.ipynb
 
-b) numpy_neural_network.ipynb
+b) pytorch_neural_network.ipynb
 
 c) pytorch_class_neural_network.ipynb
 
