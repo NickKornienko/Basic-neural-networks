@@ -15,4 +15,4 @@ e) tensorflow_neural_network.ipynb (all parts)
 
 h) jax_neutral_network.ipynb
 
-
+Video link: https://youtu.be/Ge5XScts_1w
